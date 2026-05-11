@@ -179,3 +179,19 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# CERT dataset files — too large to commit, downloaded locally
+data/*.csv
+data/*.tar.bz2
+data/r4.2/
+data/r1/
+data/r2/
+data/r3/
+data/r5/
+data/r6/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
