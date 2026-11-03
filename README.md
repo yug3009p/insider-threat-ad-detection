@@ -57,4 +57,4 @@ This work is conducted as part of the M.S. Cybersecurity, Technology, and Policy
 ## Contact
 
 Yug Mukesh Patel — yug3009p@gmail.com
-LinkedIn: https://www.linkedin.com/in/yug-patel-b9727226b
+LinkedIn: https://www.linkedin.com/in/yugpatel9409
