@@ -3,7 +3,7 @@
 
 **Author:** Yug Mukesh Patel
 **Affiliation:** M.S. Cyber Security, Technology, and Policy — The University of Texas at Dallas
-**Status:** 🚧 Work in progress — research paper in preparation, target submission Q3 2026
+**Status:** 🚧 Planned — this repository holds the project structure and methodology. Code, experiments and results will be added as the research progresses.
 
 ---
 
